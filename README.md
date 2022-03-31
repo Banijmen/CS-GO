@@ -5,4 +5,4 @@
 
 Темы: OnMouseDown, нажатие на объекты, удаление текста из Canvas
 
-[![IMAGE ALT TEXT HERE](https://img.youtu.be/nHYqPCdcfRY/0.jpg)](https://www.youtu.be/nHYqPCdcfRY)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/watch?v=nHYqPCdcfRY/0.jpg)](https://www.youtube.com/watch?v=nHYqPCdcfRY)
